@@ -9,3 +9,7 @@ include "c:\windows\asm\sound.asm"
 iffound
 boot
 // Windows 11
+
+If version = "COREOS"
+
+start "c:\windows\system32\command.com"
