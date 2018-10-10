@@ -6,7 +6,7 @@ There was one way to actually use the new operating system, by signing up for ti
 
     There was a hands-on demo of the current state of OS 8. There were tantalizing glimpses of the goodies to come, but the overall experience was awful. It does not yet support text editing, so you couldn’t actually do anything except open and view documents (any dialog field that needed something typed into it was blank and dead).
 
-    Also, it was incredibly fragile and crashed repeatedly, often corrupting system files on the disk in the process. The demo staff reformatted and rebuilt the hard disks at regular intervals. It was incredible that they even let us see the beast.[32]
+    Also, it was incredibly fragile and crashed repeatedly, often corrupting system files on the disk in the process. The demo staff reformatted and rebuilt the hard disks at regular intervals. It was incredible that they even let us see the beast.
 
 After a number of people at the show complained about the microkernel's lack of sophistication, notably the lack of symmetric multiprocessing—a feature that would be exceedingly difficult to add to a system due to ship in a few months—Amelio came back on stage and announced that they would be adding that to the feature list.
 
