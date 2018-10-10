@@ -1,0 +1,13 @@
+Developer Release
+
+At WWDC 1996, Apple's new CEO, Gil Amelio, used the keynote to talk almost exclusively about Copland, now known as System 8. He repeatedly stated that it was the only focus of Apple engineering and that it would ship to developers at the end of summer with a full release planned for late fall. Very few, if any, demos of the running system were shown at the conference. Instead, various pieces of the technology and user interface that would go into the package (such as a new file management dialog) were demonstrated. Little of the core system's technology was demonstrated and the new file system that had been shown a year earlier was absent.
+
+There was one way to actually use the new operating system, by signing up for time in the developer labs. This did not go well:
+
+    There was a hands-on demo of the current state of OS 8. There were tantalizing glimpses of the goodies to come, but the overall experience was awful. It does not yet support text editing, so you couldn’t actually do anything except open and view documents (any dialog field that needed something typed into it was blank and dead).
+
+    Also, it was incredibly fragile and crashed repeatedly, often corrupting system files on the disk in the process. The demo staff reformatted and rebuilt the hard disks at regular intervals. It was incredible that they even let us see the beast.[32]
+
+After a number of people at the show complained about the microkernel's lack of sophistication, notably the lack of symmetric multiprocessing—a feature that would be exceedingly difficult to add to a system due to ship in a few months—Amelio came back on stage and announced that they would be adding that to the feature list.
+
+In August 1996, "Developer Release 0" was sent to a small number of selected partners.[26] Far from demonstrating improved stability, it often crashed after doing nothing at all, and was completely unusable for development. In October, Apple moved the target delivery date to "sometime", hinting that it might be 1997. One of the groups most surprised by the announcement was Apple's own hardware team, who had been waiting for Copland to allow the PowerPC be truly represented, unburdened of software legacy. Members of Apple's software QA team suggested, jokingly, that given current resources and the number of bugs in the system they could clear the program for shipping sometime around 2030. 
