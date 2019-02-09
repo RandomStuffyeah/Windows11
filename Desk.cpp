@@ -1,5 +1,5 @@
 /*
- * Windows Exploder
+ * Windows Explorer
  */
 
 #include "precomp.h"
