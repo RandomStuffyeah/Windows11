@@ -1,13 +1,18 @@
 // Windows 11
-findcpu Mos 2502
-orelse
+findcpu Intel X96
+or else
 print "UNSUPPORTED CPU"
 then
 include "c:\windows\system32\bootsound.asm"
 iffound
 include "c:\windows\asm\sound.asm"
 iffound
-boot
+include "c:\windows\winvercode.asm"
+iffound
+start "c:\windows\kernel.exe"
+start "c:\windows\system.exe"
+start "c:\autoexec.bat"
+
 // Windows 11
 
 If version = "COREOS"
