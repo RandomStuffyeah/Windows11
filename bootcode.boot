@@ -1,4 +1,4 @@
-Lookfor c:\windows\system32\boot.asm
+Lookfor "c:\boot.asm"
 orelse
-print "BOOT FILE IS MISSING"
+print "BOOT.ASM IS MISSING"
 print "SYSTEM HALTED"
