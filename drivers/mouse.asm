@@ -7,4 +7,5 @@ copy "c:\drivers\joystick\joysticknotplug.asm" to "c:\drivers\joysticknotplug.as
 
 mouse:
 move mouse to 1,1,1
-print "NO MOUSE SUPPORT USE JOYSTICK"
+letuser use mouse
+print "Move mouse to move cursor"
