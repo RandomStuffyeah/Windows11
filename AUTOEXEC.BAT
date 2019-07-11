@@ -1,4 +1,4 @@
 @echo off
 start login.exe
-start GUI.EXE
+start CMD.EXE
 start UWPengine.exe
