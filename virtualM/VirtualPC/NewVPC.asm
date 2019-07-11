@@ -1,2 +1,7 @@
 if "C:\Windows\VirtualPC\BIOS.ROM" found
-start Virtual 95
+goto V95
+else
+stop
+
+:V95
+start V95
