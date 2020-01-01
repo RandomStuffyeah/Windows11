@@ -1,5 +1,7 @@
 // Windows 11
 findcpu Intel X96
+or
+findcpu AMD Ryan
 or else
 print "UNSUPPORTED CPU"
 then
